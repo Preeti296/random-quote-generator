@@ -25,6 +25,10 @@ A simple and responsive Random Quote Generator built using HTML, CSS, and JavaSc
 3. Click **Share** to share it
 4. Click **Save** to store it
 
+## 🌐 Live Demo
+
+https://preeti296.github.io/random-quote-generator
+
 ## 📌 Author
 
 Preeti
